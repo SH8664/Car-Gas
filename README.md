@@ -32,14 +32,6 @@ This Interfaces if for administration purposes. It has mainly most of the privil
 2. employees Interface:
 This interface is for employees. through it they can request any of the above mentioned features.
 
-## Features
-
-- Automated Process of Booking a Check/Test/Surgery/Medical Consultation
-- Reservation Request Status Preview
-- Financial Fees Calculations with a Feature of Partitioning the fees
-- User-Friendly Interface for All User Types
-
-
 ## 🚀 About Us
 We're a team in Cairo University, Faculty of Engineering, Computer Engineering Department. This Project is for Car-Gas Company.
 
